@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Views&color=blue&style=plastic" alt="akash-alam" /> </p>
 
-## Hi there, I'm AKASH👋
+## Hi there, I'm Saif Islam Rayhan👋
 ##### A Student, A Competitive Programmer and A frontEnd web developer.
 
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Try to Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Traveling, Watching Movie, Hang out and Photography 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/akash-alam/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/md-raihan-cse/)
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -15,15 +15,15 @@
 --->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+https://www.linkedin.com/in/md-raihan-cse/
 
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=akash-alam&show_icons=true&hide=contribs,prs&theme=transparent)
+![My github stats](https://github.com/saif-islam-rayhan/saif-islam-rayhan/edit/main/README.md)
 
 <!--- GitHub Extra Pins
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akash-alam&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pnictogen&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=saif-islam-rayhan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -71,11 +71,10 @@
 </p>
 
 ---
-[twitter]: https://twitter.com/AKASH_ALAM1
-[youtube]: https://www.youtube.com/c/linuxhero
-[instagram]: https://www.instagram.com/ig_mizbah/
-[facebook]: https://www.facebook.com/AKASH.ALAM01/
-[linkedin]: https://www.linkedin.com/in/akash-alam/
-
+[twitter]: https://twitter.com/saifislamrayhan
+[youtube]: https://www.youtube.com/c/saif islam Rayhan
+[instagram]: https://www.instagram.com/saifislamrayhan75/
+[facebook]: https://www.facebook.com/saifislamrayhan2/
+[linkedin]: https://www.linkedin.com/in/md-raihan-cse/
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
