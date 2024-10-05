@@ -38,8 +38,8 @@ https://www.linkedin.com/in/md-raihan-cse/
 ### Connect with me:
 
 [<img align="left" alt="linux_hero | YouTube" width="22px" colour="white" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
-[<img align="left" alt="AKASH-ALAM1 | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="AKASH-ALAM | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
+[<img align="left" alt="Md-Rayhan | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" alt="Md-Rayhan | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
 [<img align="left" alt="mesbahul_ | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 [<img align="left" alt="mesbahul_ | Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
 
@@ -75,6 +75,5 @@ https://www.linkedin.com/in/md-raihan-cse/
 [youtube]: https://www.youtube.com/c/saif islam Rayhan
 [instagram]: https://www.instagram.com/saifislamrayhan75/
 [facebook]: https://www.facebook.com/saifislamrayhan2/
-[linkedin]: https://www.linkedin.com/in/md-raihan-cse/
-
+[linkedin]: https://www.linkedin.com/in/md-rayhan-507823328/
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
