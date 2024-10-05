@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Try to Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Traveling, Watching Movie, Hang out and Photography 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/md-raihan-cse/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/md-rayhan-507823328/)
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -26,7 +26,7 @@ https://www.linkedin.com/in/md-raihan-cse/
 [![My wakatime's stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdrayhan75&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-alam&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-rayhan&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
