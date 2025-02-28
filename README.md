@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-alam&label=Views&color=blue&style=plastic" alt="akash-alam" /> </p>
 
 ## Hi there, I'm Saif Islam Rayhan👋
-##### A Student, A Competitive Programmer and A frontEnd web developer.
+##### A Student,A Blockchain developer and A Competitive Programmer.
 
 - 🌱 I’m currently learning Programming
 - 👯 I’m looking to collaborate with other content creators
